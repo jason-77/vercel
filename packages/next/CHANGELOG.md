@@ -1,5 +1,11 @@
 # @vercel/next
 
+## 4.15.16
+
+### Patch Changes
+
+- Add Next.js adapter opt-in behind flag ([#14574](https://github.com/vercel/vercel/pull/14574))
+
 ## 4.15.15
 
 ### Patch Changes
